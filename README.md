@@ -13,7 +13,7 @@ Alat ini memungkinkan Anda untuk melakukan pencarian dengan dorks yang telah dit
 ## Cara Menggunakan
 1. Clone repositori ini ke lokal Anda:
     ```bash
-    git clone https://github.com/username/repo-name.git
+    git clone https://github.com/5thWindShadow/Alat-Deteksi-Informasi-Sensitif
     ```
 2. Jalankan skrip utama:
     ```bash
